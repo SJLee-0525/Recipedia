@@ -1,6 +1,6 @@
 # RECIPEDIA
 
-<img src="/uploads/350bf6bbb93dbe34f7fb9cf9f61b5f00/recipediaLogo.png" width="50%" alt="레시피디아 로고"/>
+<img src="./readmeData/logo.webp" width="50%" alt="레시피디아 로고"/>
 
 ### Recipedia 링크 : https://j12s003.p.ssafy.io/
 
@@ -19,6 +19,8 @@
 8. [팀 소개](#팀-소개)
 
 ## 프로젝트 개요
+
+<img src="./readmeData/thumbnail.webp" width="100%" alt="레시피디아 로고"/>
 
 ### 📋 **서비스 개요**
 
@@ -46,35 +48,35 @@
 
 #### 재료 입출고
 
-<img src="/uploads/d7fef37c47fcbf06c531d5f5df2474e9/재료_리스트.png" width="50%" alt="재료 입출고 화면"/>
+<img src="./readmeData/main.webp" width="50%" alt="메인 화면"/>
+<img src="./readmeData/store.webp" width="50%" alt="재료 입고"/>
+<img src="./readmeData/select.webp" width="50%" alt="재료 선택"/>
+
 
 #### 개인 선호 필터링
 
-<img src="/uploads/2730691f58b2f91a6ef98d23b1024d67/선호_필터링.png" width="50%" alt="개인 선호 필터링 화면"/>
+<img src="./readmeData/filter.webp" width="50%" alt="개인 선호 필터링 화면"/>
 
 ### 레시피 생성
 
-<img src="/uploads/e3a720994b8436e6ce68e94423fdd3de/레시피_리스트_-_즐찾.png" width="50%" alt="레시피 생성 화면"/>
+<img src="./readmeData/recipe-list.webp" width="50%" alt="레시피 생성 화면"/>
 
 ### 레시피 추출
 
-<img src="/uploads/65987eeb4f96ce90991498eed4de441a/레시피_상세_-_단계.png" width="50%" alt="레시피 추출 화면"/>
+<img src="./readmeData/recipe-detail.webp" width="50%" alt="레시피 추출 화면"/>
 
 ### 사용자 프로필
 
-<div align="center">
-    <img src="/uploads/4433461e5e5bcde69cfba87dd20d9e8b/프로필_홈.png" width="45%" alt="프로필 홈 화면"/>
-    <img src="/uploads/7a5e5254dd6616618be237fc261fddeb/프로필_전환.png" width="45%" alt="프로필 전환 화면"/>
-</div>
-
+<img src="./readmeData/profile-home.webp" width="50%" alt="프로필 전환 화면"/>
+<img src="./readmeData/profile-home.webp" width="50%" alt="프로필 홈 화면"/>
 
 #### 즐겨찾기
 
-<img src="/uploads/61c354075c4d410cd19aee175625b64c/즐겨찾기_리스트.png" width="50%" alt="즐겨찾기 화면"/>
+<img src="./readmeData/favorite-list.webp" width="50%" alt="즐겨찾기 화면"/>
 
 #### 이전 레시피
 
-<img src="/uploads/b6a31fda97d25edb05cc11d0413ee3ce/이전_레시피.png" width="50%" alt="이전 레시피 화면"/>
+<img src="./readmeData/recipe-history.webp" width="50%" alt="이전 레시피 화면"/>
 
 ## 기술 스택
 
@@ -116,13 +118,13 @@
 <br>
 
 ## 서비스 아키텍처
-<img src="/uploads/9a46786b144b1a9255a057060f63be5c/웹아키텍처.jpg" alt="ERD"/>
+<img src="./readmeData/archi.jpg" alt="ERD"/>
 
 <br>
 
 ## ERD
 
-<img src="/uploads/f19c32ae296f9b2c4592406cfbf48dfe/ERD.png" width="50%" alt="ERD"/>
+<img src="./readmeData/erd.png" width="50%" alt="ERD"/>
 
 <br>
 
